@@ -3,5 +3,5 @@ class User
 
   def initialize(students)
     @knowledge = []
-  
+end
 end
